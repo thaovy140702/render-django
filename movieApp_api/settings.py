@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-s5q$yc11o!v!qx=ls#2hlgh#&n5%5r3b*o(q9y_#sw^)5j50*+
 DEBUG = True
 # APPEND_SLASH = False
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["*", "movieapp-txki.onrender.com"]
 
 
 # Application definition
